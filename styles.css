@@ -6,6 +6,7 @@ html {
 body {
   background-color: #fff;
   min-height: 100vh;
+  font-family: arial, sans-serif;
 }
 h1 {
   font-size: 30px;
